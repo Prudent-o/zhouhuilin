@@ -9,12 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title: "Huilin Zhou"
-name: &name "Huilin Zhou"
-description: &description "Academic homepage of Huilin Zhou."
+title                    : "Huilin Zhou"
+title_separator          : "-"
+name                     : &name "Huilin Zhou"
+description              : &description "Academic homepage of Huilin Zhou."
 url                      : "https://prudent-o.github.io"
 baseurl                  : "/zhouhuilin"
-repository               : "Prudent-o/zhouhuilin
+repository               : "Prudent-o/zhouhuilin"
+
 
 
 
