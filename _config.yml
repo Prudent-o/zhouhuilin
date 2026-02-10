@@ -13,8 +13,8 @@ title                    : "Huilin Zhou"
 title_separator          : "-"
 name                     : &name "Huilin Zhou"
 description              : &description "Academic homepage of Huilin Zhou."
-url: "https://prudent-o.github.io/zhouhuilin/"
-baseurl: ""
+url: "https://prudent-o.github.io"
+baseurl: "/zhouhuilin"
 repository: "Prudent-o/zhouhuilin"
 
 
@@ -39,7 +39,7 @@ author:
 # #               Additional customization can be done by editing /_includes/author-profile.html
 # author:
 #   # Biographic information
-#   avatar           : "/images/profile.png"
+#   avatar           : "images/profile.png"
 #   name             : "Huilin Zhou"
 #   pronouns         :
 #   bio              : "Ph.D. student (USTC & TeleAI, China Telecom)."
