@@ -13,13 +13,14 @@ title                    : "Huilin Zhou"
 title_separator          : "-"
 name                     : &name "Huilin Zhou"
 description              : &description "Academic homepage of Huilin Zhou."
-url                      : "https://prudent-o.github.io"
-baseurl                  : "/zhouhuilin"
-repository               : "Prudent-o/zhouhuilin"
+url: "https://prudent-o.github.io"
+baseurl: "/zhouhuilin"
+repository: "Prudent-o/zhouhuilin"
+
 
 
 author:
-  avatar           : "/images/profile.jpg"
+  avatar: "/images/profile.jpg"
   name             : "Huilin Zhou"
   pronouns         :
   bio              : "Ph.D. student (USTC & TeleAI, China Telecom). Adversarial Dynamics & Red-Teaming Lead."
