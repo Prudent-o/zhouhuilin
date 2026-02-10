@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Huilin Zhou"
 description              : &description "Academic homepage of Huilin Zhou."
 url                      : "https://Prudent-o.github.io"
-baseurl                  : ""
+baseurl                  : "/academicpages.github.io"
 repository               : "Prudent-o/academicpages.github.io"
 
 
