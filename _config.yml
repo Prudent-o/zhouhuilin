@@ -12,9 +12,9 @@ site_theme               : "default"
 title: "Huilin Zhou"
 name: &name "Huilin Zhou"
 description: &description "Academic homepage of Huilin Zhou."
-url: "https://prudent-o.github.io"
-baseurl: "/academicpages.github.io"
-repository: "Prudent-o/academicpages.github.io"
+url                      : "https://prudent-o.github.io"
+baseurl                  : "/zhouhuilin"
+repository               : "Prudent-o/zhouhuilin
 
 
 
