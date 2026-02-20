@@ -6,15 +6,15 @@ date: 2025-12-05
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2512.05485"
 citation: "Xiuyuan Chen, Jian Zhao, Yuxiang He, Yuan Xun, Xinwei Liu, Yanshu Li, Huilin Zhou, Wei Cai, Ziyan Shi, Yuchen Yuan, Tianle Zhang, Chi Zhang, Xuelong Li. \"TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations.\" arXiv:2512.05485, 2025."
-excerpt: "Status: Under review at Pattern Recognition."
+excerpt: ""
 ---
 
 **Authors:** Xiuyuan Chen, Jian Zhao, Yuxiang He, Yuan Xun, Xinwei Liu, Yanshu Li, Huilin Zhou, Wei Cai, Ziyan Shi, Yuchen Yuan, Tianle Zhang, Chi Zhang, Xuelong Li
 
 **Venue:** arXiv  
-**Status:** Under review at *Pattern Recognition*  
+**Status:** 
 **arXiv:** <https://arxiv.org/abs/2512.05485>  
-**Journal page:** <https://www.sciencedirect.com/journal/pattern-recognition>
+**Journal page:**
 
 ### BibTeX
 ```bibtex
