@@ -170,20 +170,20 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
 
 <ul class="compact-list">
   <li>
-    <span class="lang-zh"><strong>2025.</strong> 第六届中国人工智能大赛获 <span class="inline-badge red-badge">2A1B</span>：在“大模型幻觉挑战赛”与“智能图纸审查技术赛”获 A 级证书（最高级别），在“大模型对抗赛”获 B 级证书。</span>
-    <span class="lang-en"><strong>2025.</strong> Received <span class="inline-badge red-badge">2A1B</span> in the 6th China Artificial Intelligence Competition: A-level certificates in the Large Model Hallucination Challenge and Intelligent Drawing Review Challenge, and a B-level certificate in the Large Model Adversarial Challenge.</span>
+    <span class="award-mark lang-zh">🏆</span><span class="lang-zh"><strong>2025.</strong> 第六届中国人工智能大赛获 <span class="inline-badge red-badge">2A1B</span>：在“大模型幻觉挑战赛”与“智能图纸审查技术赛”获 A 级证书（最高级别），在“大模型对抗赛”获 B 级证书。</span>
+    <span class="award-mark lang-en">🏆</span><span class="lang-en"><strong>2025.</strong> Received <span class="inline-badge red-badge">2A1B</span> in the 6th China Artificial Intelligence Competition: A-level certificates in the Large Model Hallucination Challenge and Intelligent Drawing Review Challenge, and a B-level certificate in the Large Model Adversarial Challenge.</span>
   </li>
   <li>
-    <span class="lang-zh"><strong>2025.</strong> 中国科学技术大学博士入学一等奖学金。</span>
-    <span class="lang-en"><strong>2025.</strong> First-Class Ph.D. Entrance Scholarship, University of Science and Technology of China.</span>
+    <span class="award-mark lang-zh">🎓</span><span class="lang-zh"><strong>2025.</strong> 中国科学技术大学博士入学一等奖学金。</span>
+    <span class="award-mark lang-en">🎓</span><span class="lang-en"><strong>2025.</strong> First-Class Ph.D. Entrance Scholarship, University of Science and Technology of China.</span>
   </li>
   <li>
-    <span class="lang-zh"><strong>2024-2025.</strong> 国家奖学金。</span>
-    <span class="lang-en"><strong>2024-2025.</strong> National Scholarship.</span>
+    <span class="award-mark lang-zh">🏅</span><span class="lang-zh"><strong>2023-2024, 2024-2025.</strong> 连续两年度国家奖学金。</span>
+    <span class="award-mark lang-en">🏅</span><span class="lang-en"><strong>2023-2024, 2024-2025.</strong> National Scholarship for two consecutive academic years.</span>
   </li>
   <li>
-    <span class="lang-zh"><strong>2024.</strong> 北京市优秀毕业生。</span>
-    <span class="lang-en"><strong>2024.</strong> Beijing Outstanding Graduate.</span>
+    <span class="award-mark lang-zh">🌟</span><span class="lang-zh"><strong>2024.</strong> 北京市优秀毕业生。</span>
+    <span class="award-mark lang-en">🌟</span><span class="lang-en"><strong>2024.</strong> Beijing Outstanding Graduate.</span>
   </li>
 </ul>
 

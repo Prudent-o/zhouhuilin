@@ -245,7 +245,24 @@ h1:before, .anchor:before {
     justify-content: center;
     margin-top: 1.2rem;
     margin-bottom: 0.4rem;
-    min-height: 220px;
+    width: min(340px, 100%);
+    min-height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.visitor-map-widget > div,
+.visitor-map-widget iframe,
+.visitor-map-widget img,
+.visitor-map-widget canvas {
+    max-width: 100%;
+    height: auto !important;
+}
+
+.visitor-map-widget > div {
+    transform: scale(0.82);
+    transform-origin: top center;
 }
 
 .page-utility-widget {
@@ -261,6 +278,14 @@ h1:before, .anchor:before {
 .compact-list li {
     margin-bottom: 0.8rem;
     line-height: 1.8;
+}
+
+.award-mark {
+    display: inline-block;
+    width: 1.5rem;
+    margin-right: 0.2rem;
+    text-align: center;
+    vertical-align: baseline;
 }
 
 .inline-badge {
