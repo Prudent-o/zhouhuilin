@@ -247,3 +247,43 @@ h1:before, .anchor:before {
     margin-bottom: 0.4rem;
     min-height: 220px;
 }
+
+.page-utility-widget {
+    margin-top: 2.2rem;
+    padding-top: 1.35rem;
+    border-top: 1px solid #eceff4;
+}
+
+.compact-list {
+    padding-left: 1.35rem;
+}
+
+.compact-list li {
+    margin-bottom: 0.8rem;
+    line-height: 1.8;
+}
+
+.inline-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+    padding: 0.08rem 0.58rem;
+    border-radius: 999px;
+    font-size: 0.84em;
+    line-height: 1.45;
+    vertical-align: middle;
+}
+
+.gold-badge {
+    color: #7a5a10;
+    background: #fff4d6;
+    border: 1px solid #ecd9a2;
+    font-weight: 700;
+}
+
+.red-badge {
+    color: #a73737;
+    background: #fff1f1;
+    border: 1px solid #efcfcf;
+    font-weight: 700;
+}

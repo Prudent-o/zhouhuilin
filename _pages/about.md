@@ -151,23 +151,48 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
 </div>
 </div>
 
+<span class='anchor' id="academic-activities"></span>
+# 🎓 <span class="lang-zh">学术活动与服务</span><span class="lang-en">Academic Activities & Services</span>
+
+<ul class="compact-list">
+  <li>
+    <span class="lang-zh"><strong>学术服务.</strong> ICML 2026 审稿人，<span class="inline-badge gold-badge">🏅 金牌审稿人 · Top 25%</span>。</span>
+    <span class="lang-en"><strong>Service.</strong> Reviewer for ICML 2026, <span class="inline-badge gold-badge">🏅 Gold Reviewer · Top 25%</span>.</span>
+  </li>
+  <li>
+    <span class="lang-zh"><strong>学术活动.</strong> 正在筹备 UbiComp 2026 workshop。</span>
+    <span class="lang-en"><strong>Activity.</strong> Co-organizing a workshop for UbiComp 2026.</span>
+  </li>
+</ul>
+
+<span class='anchor' id="honors-awards"></span>
+# 🏆 <span class="lang-zh">荣誉与奖项</span><span class="lang-en">Honors & Awards</span>
+
+<ul class="compact-list">
+  <li>
+    <span class="lang-zh"><strong>2025.</strong> 第六届中国人工智能大赛获 <span class="inline-badge red-badge">2A1B</span>：在“大模型幻觉挑战赛”与“智能图纸审查技术赛”获 A 级证书（最高级别），在“大模型对抗赛”获 B 级证书。</span>
+    <span class="lang-en"><strong>2025.</strong> Received <span class="inline-badge red-badge">2A1B</span> in the 6th China Artificial Intelligence Competition: A-level certificates in the Large Model Hallucination Challenge and Intelligent Drawing Review Challenge, and a B-level certificate in the Large Model Adversarial Challenge.</span>
+  </li>
+  <li>
+    <span class="lang-zh"><strong>2025.</strong> 中国科学技术大学博士入学一等奖学金。</span>
+    <span class="lang-en"><strong>2025.</strong> First-Class Ph.D. Entrance Scholarship, University of Science and Technology of China.</span>
+  </li>
+  <li>
+    <span class="lang-zh"><strong>2024-2025.</strong> 国家奖学金。</span>
+    <span class="lang-en"><strong>2024-2025.</strong> National Scholarship.</span>
+  </li>
+  <li>
+    <span class="lang-zh"><strong>2024.</strong> 北京市优秀毕业生。</span>
+    <span class="lang-en"><strong>2024.</strong> Beijing Outstanding Graduate.</span>
+  </li>
+</ul>
+
 <span class='anchor' id="education"></span>
 # 🎓 <span class="lang-zh">教育经历</span><span class="lang-en">Education</span>
 
 - <span class="lang-zh">*2025.09 – 至今，博士研究生*，中国科学技术大学（USTC），合肥</span><span class="lang-en">*2025.09 – Present, Ph.D. Student*, University of Science and Technology of China (USTC), Hefei, China</span>
 - <span class="lang-zh">*2025.09 – 至今，联合培养博士生*，中国电信人工智能研究院（TeleAI），北京</span><span class="lang-en">*2025.09 – Present, Joint Ph.D. Researcher*, Institute of Artificial Intelligence, China Telecom (TeleAI), Beijing, China</span>
 
-<span class='anchor' id="visitor-map"></span>
-# 🌍 <span class="lang-zh">访客地图</span><span class="lang-en">Visitor Map</span>
-
-<div class="lang-zh" markdown="1">
-这里展示网站的访客分布与访问统计。
-</div>
-
-<div class="lang-en" markdown="1">
-This section shows the visitor distribution and visit statistics of the website.
-</div>
-
-<div class="visitor-map-widget">
+<div class="visitor-map-widget page-utility-widget">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=v8W-Ch_-iX1wT7o_8KQ5gQB6p4WCNY7aTSkwcFpQmZE&cl=ffffff&w=a"></script>
 </div>
