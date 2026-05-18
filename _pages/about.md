@@ -160,4 +160,14 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
 <span class='anchor' id="visitor-map"></span>
 # 🌍 <span class="lang-zh">访客地图</span><span class="lang-en">Visitor Map</span>
 
-<span class="lang-zh">网站部署后，这里将接入官方 [ClustrMaps](https://clustrmaps.com/add) 访客地图与访问统计组件。</span><span class="lang-en">After deployment, the official [ClustrMaps](https://clustrmaps.com/add) widget will be added here for the visitor map and visit statistics.</span>
+<div class="lang-zh" markdown="1">
+这里展示网站的访客分布与访问统计。
+</div>
+
+<div class="lang-en" markdown="1">
+This section shows the visitor distribution and visit statistics of the website.
+</div>
+
+<div class="visitor-map-widget">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=v8W-Ch_-iX1wT7o_8KQ5gQB6p4WCNY7aTSkwcFpQmZE&cl=ffffff&w=a"></script>
+</div>
