@@ -2,42 +2,240 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
+ *    Minimal Mistakes Jekyll Theme
  *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@import
-    "vendor/breakpoint/breakpoint",
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+@import "reset";
+@import "base";
 
-    "include/mixins",
-    "vendor/susy/susy",
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-    "layout/reset",
-    "layout/base",
+@import "forms";
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+@import "page";
+@import "archive";
+@import "sidebar";
 
-    "layout/forms",
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
+html[data-lang="zh"] .lang-en {
+    display: none !important;
+}
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+html[data-lang="en"] .lang-zh {
+    display: none !important;
+}
+
+.masthead__menu-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.masthead__menu-wrap .greedy-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.masthead__lang-switcher {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    flex: 0 0 auto;
+}
+
+.lang-toggle {
+    position: static;
+    height: auto;
+    right: auto;
+    border: 1px solid #d7dce6;
+    background: #fff;
+    color: #4c556a;
+    border-radius: 999px;
+    padding: 0.18rem 0.62rem;
+    font-size: 0.86em;
+    line-height: 1.4;
+    cursor: pointer;
+}
+
+.lang-toggle.is-active {
+    background: #f1f4f9;
+    border-color: #aeb8c8;
+    color: #2e3748;
+}
+
+@media(max-width: 768px) {
+    .masthead__menu-wrap {
+        gap: 0.55rem;
+    }
+
+    .masthead__lang-switcher {
+        margin-right: 2.9rem;
+    }
+}
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            border-radius: 12px;
+            border: 1px solid #e7e9ef;
+            box-shadow: 0 10px 24px rgba(33, 48, 74, 0.10);
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+    border-radius: 999px;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+}
+
+.badge-accepted {
+    background-color: #c83f3f;
+}
+
+.badge-preprint {
+    background-color: #295ea8;
+}
+
+.badge-under-review {
+    background-color: #8a6a46;
+}
+
+.badge-internal {
+    background-color: #68758a;
+}
+
+.paper-box-text strong {
+    font-size: 1.06em;
+}
+
+.paper-links {
+    margin-left: 0.35rem;
+    font-size: 0.95em;
+    white-space: nowrap;
+}
+
+.paper-flags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 0.75rem;
+}
+
+.paper-flags span {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.72rem;
+    border-radius: 999px;
+    border: 1px solid #e2e6ef;
+    background: #f8f9fc;
+    color: #44516a;
+    font-size: 0.8em;
+    line-height: 1.3;
+}
+
+.paper-flags .paper-rank {
+    border-color: #f0d6d6;
+    background: #fff3f3;
+    color: #b33a3a;
+    font-weight: 700;
+}
+
+.paper-flags .paper-status {
+    border-color: #dbe3ef;
+    background: #f4f8fe;
+}
+
+.news-list {
+    padding-left: 1.35rem;
+}
+
+.news-list li {
+    margin-bottom: 0.7rem;
+}
+
+.page__content p,
+.page__content li {
+    font-size: 1.02em;
+    line-height: 1.85;
+}
