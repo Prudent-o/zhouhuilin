@@ -194,5 +194,5 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
 - <span class="lang-zh">*2025.09 – 至今，联合培养博士生*，中国电信人工智能研究院（TeleAI），北京</span><span class="lang-en">*2025.09 – Present, Joint Ph.D. Researcher*, Institute of Artificial Intelligence, China Telecom (TeleAI), Beijing, China</span>
 
 <div class="visitor-map-widget page-utility-widget">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=v8W-Ch_-iX1wT7o_8KQ5gQB6p4WCNY7aTSkwcFpQmZE&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TFIkLzfa7OzsbbFuAqpak9ZU0tZCm4KrWsel8RSTSUM&cl=ffffff&w=a"></script>
 </div>
