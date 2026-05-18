@@ -182,8 +182,8 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
     <span class="award-mark lang-en">🏅</span><span class="lang-en"><strong>2023-2024, 2024-2025.</strong> National Scholarship for two consecutive academic years.</span>
   </li>
   <li>
-    <span class="award-mark lang-zh">🌟</span><span class="lang-zh"><strong>2024.</strong> 北京市优秀毕业生。</span>
-    <span class="award-mark lang-en">🌟</span><span class="lang-en"><strong>2024.</strong> Beijing Outstanding Graduate.</span>
+    <span class="award-mark lang-zh">🌟</span><span class="lang-zh"><strong>2025.</strong> 北京市优秀毕业生。</span>
+    <span class="award-mark lang-en">🌟</span><span class="lang-en"><strong>2025.</strong> Beijing Outstanding Graduate.</span>
   </li>
 </ul>
 
