@@ -1,0 +1,21 @@
+# main links links
+main:
+  - title_zh: "关于我"
+    title_en: "About"
+    url: "/#about-me"
+
+  - title_zh: "动态"
+    title_en: "News"
+    url: "/#news"
+
+  - title_zh: "论文"
+    title_en: "Papers"
+    url: "/#selected-papers"
+
+  - title_zh: "教育经历"
+    title_en: "Education"
+    url: "/#education"
+
+  - title_zh: "访客地图"
+    title_en: "Visitor Map"
+    url: "/#visitor-map"
