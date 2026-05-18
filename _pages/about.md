@@ -160,8 +160,8 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
     <span class="lang-en"><strong>Service.</strong> Reviewer for ICML 2026, <span class="inline-badge gold-badge">🏅 Gold Reviewer · Top 25%</span>.</span>
   </li>
   <li>
-    <span class="lang-zh"><strong>学术活动.</strong> 正在筹备 UbiComp 2026 workshop。</span>
-    <span class="lang-en"><strong>Activity.</strong> Co-organizing a workshop for UbiComp 2026.</span>
+    <span class="lang-zh"><strong>学术活动.</strong> 正在筹备 UbiComp 2026 workshop，<span class="inline-badge red-badge">CCF-A</span>。</span>
+    <span class="lang-en"><strong>Activity.</strong> Co-organizing a workshop for UbiComp 2026, <span class="inline-badge red-badge">CCF-A</span>.</span>
   </li>
 </ul>
 
