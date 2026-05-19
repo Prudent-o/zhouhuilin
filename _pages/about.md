@@ -14,13 +14,13 @@ redirect_from:
 <div class="lang-zh" markdown="1">
 我是**周晖林（Huilin Zhou）**，现为**中国科学技术大学（USTC）**与**中国电信人工智能研究院（TeleAI）**联合培养博士一年级学生，在[赵健老师](https://zhaoj9014.github.io/)指导下，于[李学龙教授](http://xuelongli.cn/en.php)团队开展研究。
 
-我目前主要关注 **高可靠高效率的 agent** 与 **多模态模型**。在这些方向上，我对**安全性、鲁棒性、评测与效率优化**等问题都很感兴趣。到目前为止，我做过一些**自演进越狱优化**、**多智能体安全评测**、以及**更安全的文生图生成**等工作。更多信息可见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) 与 [ORCID](https://orcid.org/0009-0002-8139-0911)。
+我目前主要关注 **可信的 agent**、**可信的多模态模型**，以及**文生图模型**等方向，也对相关的基础问题与实际应用问题持续保持兴趣。到目前为止，我做过一些**自演进越狱优化**、**多智能体安全评测**、以及**更安全的文生图生成**等工作。更多信息可见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) 与 [ORCID](https://orcid.org/0009-0002-8139-0911)。
 </div>
 
 <div class="lang-en" markdown="1">
 I am **Huilin Zhou (周晖林)**, a first-year Ph.D. student jointly trained by the **University of Science and Technology of China (USTC)** and the **Institute of Artificial Intelligence, China Telecom (TeleAI)**. I conduct research under the supervision of [Jian Zhao](https://zhaoj9014.github.io/) as a member of [Prof. Xuelong Li](http://xuelongli.cn/en.php)'s team.
 
-My current interests are mainly in **reliable and efficient agents** and **multimodal models**. Within these areas, I am particularly interested in **safety**, **robustness**, **evaluation**, and **efficiency**. So far, I have worked on **self-evolving jailbreak optimization**, **multi-agent safety evaluation**, and **safer text-to-image generation**. More information can be found on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) and [ORCID](https://orcid.org/0009-0002-8139-0911).
+My current interests mainly lie in **trustworthy agents**, **trustworthy multimodal models**, and **text-to-image models**, as well as related foundational and practical problems. So far, I have worked on **self-evolving jailbreak optimization**, **multi-agent safety evaluation**, and **safer text-to-image generation**. More information can be found on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) and [ORCID](https://orcid.org/0009-0002-8139-0911).
 </div>
 
 <span class='anchor' id='news'></span>
