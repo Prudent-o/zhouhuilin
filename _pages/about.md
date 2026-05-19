@@ -14,7 +14,7 @@ redirect_from:
 <div class="lang-zh" markdown="1">
 我是**周晖林（Huilin Zhou）**，现为**中国科学技术大学（USTC）**与**中国电信人工智能研究院（TeleAI）**联合培养博士一年级学生，在[赵健老师](https://zhaoj9014.github.io/)指导下，于[李学龙教授](http://xuelongli.cn/en.php)团队开展研究。
 
-我目前主要关注 **可信与高效的 agent**、**多模态模型**，以及**文生图模型**等方向，也对相关的基础问题与实际应用问题持续保持兴趣。到目前为止，我做过一些**自演进越狱优化**、**多智能体安全评测**、以及**更安全的文生图生成**等工作。更多信息可见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) 与 [ORCID](https://orcid.org/0009-0002-8139-0911)。
+我目前主要关注 **可信与高效的智能体**、**多模态模型**，以及**文生图模型**等方向，也对相关的基础问题与实际应用问题持续保持兴趣。到目前为止，我做过一些**自演进越狱优化**、**多智能体安全评测**、以及**更安全的文生图生成**等工作。更多信息可见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) 与 [ORCID](https://orcid.org/0009-0002-8139-0911)。
 </div>
 
 <div class="lang-en" markdown="1">
