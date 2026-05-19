@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Huilin Zhou 周晖林"
-description              : "Agents, Multimodal Foundation Models, and AI Safety"
-description_zh           : "智能体、多模态基础模型与人工智能安全"
-description_en           : "Agents, Multimodal Foundation Models, and AI Safety"
+description              : "Reliable and Efficient Agents / Multimodal Models"
+description_zh           : "高可靠高效率智能体 / 多模态模型"
+description_en           : "Reliable and Efficient Agents / Multimodal Models"
 repository               : "Prudent-o/zhouhuilin-homepage"
 url                      : "https://prudent-o.github.io"
 baseurl                  : "/zhouhuilin"
