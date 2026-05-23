@@ -37,7 +37,7 @@ My current interests mainly lie in **trustworthy and efficient agents**, **multi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-accepted">🔥 ICML 2026 · CCF-A</div><img src="{{ '/images/metis.png' | relative_url }}" alt="Metis" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization** <span class="paper-links">[\[arXiv\]](https://arxiv.org/abs/2605.10067) [\[PDF\]]({{ '/files/metis.pdf' | relative_url }})</span>
+**Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization** <span class="paper-links">[\[arXiv\]](https://arxiv.org/abs/2605.10067)</span>
 
 **Huilin Zhou**, Jian Zhao, Yilu Zhong, Zhen Liang, Xiuyuan Chen, Tianle Zhang, Yuchen Yuan, Chi Zhang, Lan Zhang, Xuelong Li
 
@@ -89,7 +89,7 @@ Wentao Hu, Zeyu Zhu, Mingkuan Zhao, Zhenhua An, Yanbo Zhai, Shanhong Yu, **Huili
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-preprint">📄 arXiv</div><img src="{{ '/images/teleai.png' | relative_url }}" alt="TeleAI-Safety" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations** <span class="paper-links">[\[arXiv\]](https://arxiv.org/abs/2512.05485) [\[PDF\]]({{ '/files/teleai-safety.pdf' | relative_url }})</span>
+**TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations** <span class="paper-links">[\[arXiv\]](https://arxiv.org/abs/2512.05485)</span>
 
 Xiuyuan Chen, Jian Zhao, Yuxiang He, Yuan Xun, Xinwei Liu, Yanshu Li, **Huilin Zhou**, Wei Cai, Ziyan Shi, Yuchen Yuan, Tianle Zhang, Chi Zhang, Xuelong Li
 
