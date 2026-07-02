@@ -138,6 +138,19 @@ Yilu Zhong, Jian Zhao, **Huilin Zhou**, Tianle Zhang, Shangquan Sun, Xuelong Li
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-under-review">🛡 Under Review</div><img src="{{ '/images/trustguard.png' | relative_url }}" alt="TrustGuard" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TrustGuard: Persistent Trust-State Governance for Personalized LLM Agent Safety**
+
+Yuming Liu, Jian Zhao, Kai Wang, **Huilin Zhou**, Tianle Zhang, Lan Zhang, Xuelong Li
+
+<span class="lang-zh">审稿中。</span><span class="lang-en">Under review.</span>
+
+<div class="paper-flags"><span class="paper-status"><span class="lang-zh">审稿中</span><span class="lang-en">Under Review</span></span><span><span class="lang-zh">Agent 安全</span><span class="lang-en">Agent Safety</span></span><span><span class="lang-zh">个性化治理</span><span class="lang-en">Personalized Governance</span></span></div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-under-review">👁 Under Review</div><img src="{{ '/images/ghost.png' | relative_url }}" alt="Ghost in the Pixels" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
