@@ -28,7 +28,7 @@ My current interests mainly lie in **trustworthy and efficient agents**, **multi
 
 <ul class="news-list">
   <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>PoliteInjection</strong> 在 <strong>IJCAI 2026 Workshop on AIGC Safety</strong> 的 OpenClaw Security Attack and Defense Challenge 中获得 <strong>Gold Award</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>PoliteInjection</strong> received the <strong>Gold Award</strong> at the OpenClaw Security Attack and Defense Challenge of the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
-  <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 📄 同期另有一篇工作获 <strong>IJCAI 2026 Workshop on AIGC Safety Best Paper</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 📄 Another work was also recognized as <strong>Best Paper</strong> at the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
+  <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> 获 <strong>IJCAI 2026 Workshop on AIGC Safety Best Paper Prize</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> received the <strong>Best Paper Prize</strong> at the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 5 月 1 日.</strong> 🔥 <strong>Metis</strong> 与 <strong>RaGEP</strong> 被 <strong>ICML 2026（CCF-A）</strong> 接收为 regular papers。</span><span class="lang-en"><strong>May 1, 2026.</strong> 🔥 <strong>Metis</strong> and <strong>RaGEP</strong> were accepted to <strong>ICML 2026 (CCF-A)</strong> as regular papers.</span></li>
   <li><span class="lang-zh"><strong>2025 年 12 月 5 日.</strong> 📄 <strong>TeleAI-Safety</strong> 在 arXiv 发布，聚焦 LLM 越狱攻击、防御与评测。</span><span class="lang-en"><strong>December 5, 2025.</strong> 📄 <strong>TeleAI-Safety</strong> was released on arXiv for LLM jailbreak attacks, defenses, and evaluation.</span></li>
 </ul>
@@ -96,6 +96,17 @@ Wentao Hu, Zeyu Zhu, Mingkuan Zhao, Zhenhua An, Yanbo Zhai, Shanhong Yu, **Huili
 <span class="lang-zh">在 IJCAI 2026 Workshop on AIGC Safety 的 OpenClaw Security Attack and Defense Challenge 中获得 Gold Award，并受邀进行 oral presentation。</span><span class="lang-en">Received the Gold Award at the OpenClaw Security Attack and Defense Challenge of the IJCAI 2026 Workshop on AIGC Safety, with an invited oral presentation.</span>
 
 <div class="paper-flags"><span class="paper-rank">🏆 Gold Award</span><span class="paper-status"><span class="lang-zh">受邀 Oral</span><span class="lang-en">Invited Oral</span></span><span><span class="lang-zh">攻击与防御</span><span class="lang-en">Attack & Defense</span></span><span><span class="lang-zh">AIGC 安全</span><span class="lang-en">AIGC Safety</span></span></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-accepted">🏆 Best Paper</div><img src="{{ '/images/echotonexus.png' | relative_url }}" alt="From Echo to Nexus" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs**
+
+<span class="lang-zh">获 IJCAI 2026 Workshop on AIGC Safety Best Paper Prize，并受邀进行 oral presentation。</span><span class="lang-en">Received the Best Paper Prize at the IJCAI 2026 Workshop on AIGC Safety, with an invited oral presentation.</span>
+
+<div class="paper-flags"><span class="paper-rank">🏆 Best Paper</span><span class="paper-status"><span class="lang-zh">受邀 Oral</span><span class="lang-en">Invited Oral</span></span><span><span class="lang-zh">LLM 越狱</span><span class="lang-en">LLM Jailbreaking</span></span><span><span class="lang-zh">攻击者画像</span><span class="lang-en">Attacker Personality</span></span></div>
 </div>
 </div>
 
@@ -200,8 +211,8 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
     <span class="award-mark lang-en">🥇</span><span class="lang-en"><strong>2026.</strong> <strong>PoliteInjection</strong> received the <span class="inline-badge gold-badge">Gold Award</span> at the OpenClaw Security Attack and Defense Challenge of the IJCAI 2026 Workshop on AIGC Safety.</span>
   </li>
   <li>
-    <span class="award-mark lang-zh">📄</span><span class="lang-zh"><strong>2026.</strong> 同期另有一篇工作获 <span class="inline-badge red-badge">Best Paper</span>。</span>
-    <span class="award-mark lang-en">📄</span><span class="lang-en"><strong>2026.</strong> Another work was also recognized with <span class="inline-badge red-badge">Best Paper</span>.</span>
+    <span class="award-mark lang-zh">📄</span><span class="lang-zh"><strong>2026.</strong> <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> 获 <span class="inline-badge red-badge">Best Paper Prize</span>。</span>
+    <span class="award-mark lang-en">📄</span><span class="lang-en"><strong>2026.</strong> <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> received the <span class="inline-badge red-badge">Best Paper Prize</span>.</span>
   </li>
   <li>
     <span class="award-mark lang-zh">🏆</span><span class="lang-zh"><strong>2025.</strong> 第六届中国人工智能大赛获 <span class="inline-badge red-badge">2A1B</span>：在“大模型幻觉挑战赛”与“智能图纸审查技术赛”获 A 级证书（最高级别），在“大模型对抗赛”获 B 级证书。</span>
