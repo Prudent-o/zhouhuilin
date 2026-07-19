@@ -12,13 +12,13 @@ redirect_from:
 # 🧑‍🎓 <span class="lang-zh">关于我</span><span class="lang-en">About Me</span>
 
 <div class="lang-zh" markdown="1">
-我是**周晖林（Huilin Zhou）**，现为**中国科学技术大学（USTC）**与**中国电信人工智能研究院（TeleAI）**联合培养博士一年级学生，在[赵健老师](https://zhaoj9014.github.io/)指导下，于[李学龙教授](http://xuelongli.cn/en.php)团队开展研究。
+我是**周晖林（Huilin Zhou）**，现为**中国科学技术大学（USTC）**与**中国电信人工智能研究院（TeleAI）**联合培养博士一年级学生，在[赵健老师](https://zhaoj9014.github.io/)和[张兰老师](https://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm)共同指导下，于[李学龙教授](http://xuelongli.cn/en.php)团队开展研究。
 
 我目前主要关注 **可信与高效的智能体**、**多模态模型**，以及**文生图模型**等方向，也对相关的基础问题与实际应用问题持续保持兴趣。到目前为止，我做过一些**自演进越狱优化**、**多智能体安全评测**、以及**更安全的文生图生成**等工作。更多信息可见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) 与 [ORCID](https://orcid.org/0009-0002-8139-0911)。
 </div>
 
 <div class="lang-en" markdown="1">
-I am **Huilin Zhou (周晖林)**, a first-year Ph.D. student jointly trained by the **University of Science and Technology of China (USTC)** and the **Institute of Artificial Intelligence, China Telecom (TeleAI)**. I conduct research under the supervision of [Jian Zhao](https://zhaoj9014.github.io/) as a member of [Prof. Xuelong Li](http://xuelongli.cn/en.php)'s team.
+I am **Huilin Zhou (周晖林)**, a first-year Ph.D. student jointly trained by the **University of Science and Technology of China (USTC)** and the **Institute of Artificial Intelligence, China Telecom (TeleAI)**. I conduct research under the joint supervision of [Jian Zhao](https://zhaoj9014.github.io/) and [Lan Zhang](https://cs.ustc.edu.cn/2020/0706/c23235a460088/page.htm) as a member of [Prof. Xuelong Li](http://xuelongli.cn/en.php)'s team.
 
 My current interests mainly lie in **trustworthy and efficient agents**, **multimodal models**, and **text-to-image models**, as well as related foundational and practical problems. So far, I have worked on **self-evolving jailbreak optimization**, **multi-agent safety evaluation**, and **safer text-to-image generation**. More information can be found on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=MUalzPoAAAAJ) and [ORCID](https://orcid.org/0009-0002-8139-0911).
 </div>
