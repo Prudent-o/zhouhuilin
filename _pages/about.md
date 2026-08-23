@@ -27,6 +27,7 @@ My current interests mainly lie in **trustworthy and efficient agents**, **multi
 # 🎉 <span class="lang-zh">动态</span><span class="lang-en">News</span>
 
 <ul class="news-list">
+  <li><span class="lang-zh"><strong>2026 年 7 月.</strong> 🔥 <strong>Never compromise with vulnerabilities: a comprehensive survey on AI governance</strong> 被 <strong>Science China Information Sciences（SCIS，CCF-A）</strong> 接收。</span><span class="lang-en"><strong>July 2026.</strong> 🔥 <strong>Never compromise with vulnerabilities: a comprehensive survey on AI governance</strong> was accepted by <strong>Science China Information Sciences (SCIS, CCF-A)</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>PoliteInjection</strong> 在 <strong>IJCAI 2026 Workshop on AIGC Safety</strong> 的 OpenClaw Security Attack and Defense Challenge 中获得 <strong>Gold Award</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>PoliteInjection</strong> received the <strong>Gold Award</strong> at the OpenClaw Security Attack and Defense Challenge of the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> 获 <strong>IJCAI 2026 Workshop on AIGC Safety Best Paper Prize</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> received the <strong>Best Paper Prize</strong> at the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 5 月 1 日.</strong> 🔥 <strong>Metis</strong> 与 <strong>RaGEP</strong> 被 <strong>ICML 2026（CCF-A）</strong> 接收为 regular papers。</span><span class="lang-en"><strong>May 1, 2026.</strong> 🔥 <strong>Metis</strong> and <strong>RaGEP</strong> were accepted to <strong>ICML 2026 (CCF-A)</strong> as regular papers.</span></li>
@@ -85,6 +86,17 @@ Wentao Hu, Zeyu Zhu, Mingkuan Zhao, Zhenhua An, Yanbo Zhai, Shanhong Yu, **Huili
 <span class="lang-zh">International Conference on Machine Learning（ICML 2026），已接收 Regular Paper。</span><span class="lang-en">International Conference on Machine Learning (ICML 2026), Accepted Regular Paper.</span>
 
 <div class="paper-flags"><span class="paper-rank">🔥 CCF-A</span><span class="paper-status"><span class="lang-zh">已接收</span><span class="lang-en">Accepted</span></span><span><span class="lang-zh">MoE 剪枝</span><span class="lang-en">MoE Pruning</span></span><span><span class="lang-zh">效率优化</span><span class="lang-en">Efficiency</span></span></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-accepted">🔥 SCIS · CCF-A</div><img src="{{ '/images/scis-ai-governance.png' | relative_url }}" alt="AI governance survey framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Never compromise with vulnerabilities: a comprehensive survey on AI governance** <span class="paper-links">[\[arXiv\]](https://arxiv.org/abs/2508.08789)</span>
+
+<span class="lang-zh">Science China Information Sciences（SCIS），2026 年 7 月录用。</span><span class="lang-en">Science China Information Sciences (SCIS), Accepted in July 2026.</span>
+
+<div class="paper-flags"><span class="paper-rank">🔥 CCF-A</span><span class="paper-status"><span class="lang-zh">已接收</span><span class="lang-en">Accepted</span></span><span><span class="lang-zh">AI 治理</span><span class="lang-en">AI Governance</span></span><span><span class="lang-zh">综述</span><span class="lang-en">Survey</span></span></div>
 </div>
 </div>
 
