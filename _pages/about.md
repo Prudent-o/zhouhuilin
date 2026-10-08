@@ -27,6 +27,7 @@ My current interests mainly lie in **trustworthy and efficient agents**, **multi
 # 🎉 <span class="lang-zh">动态</span><span class="lang-en">News</span>
 
 <ul class="news-list">
+  <li><span class="lang-zh"><strong>2026 年 9 月 25 日.</strong> 🔥 <strong>Decoupled Safety Control（DSC）</strong> 被 <strong>NeurIPS 2026（CCF-A）</strong> 接收。</span><span class="lang-en"><strong>September 25, 2026.</strong> 🔥 <strong>Decoupled Safety Control (DSC)</strong> was accepted to <strong>NeurIPS 2026 (CCF-A)</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月.</strong> 🔥 <strong>Never compromise with vulnerabilities: a comprehensive survey on AI governance</strong> 被 <strong>Science China Information Sciences（SCIS，CCF-A）</strong> 接收。</span><span class="lang-en"><strong>July 2026.</strong> 🔥 <strong>Never compromise with vulnerabilities: a comprehensive survey on AI governance</strong> was accepted by <strong>Science China Information Sciences (SCIS, CCF-A)</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>PoliteInjection</strong> 在 <strong>IJCAI 2026 Workshop on AIGC Safety</strong> 的 OpenClaw Security Attack and Defense Challenge 中获得 <strong>Gold Award</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>PoliteInjection</strong> received the <strong>Gold Award</strong> at the OpenClaw Security Attack and Defense Challenge of the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> 获 <strong>IJCAI 2026 Workshop on AIGC Safety Best Paper Prize</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>From Echo to Nexus: How Attacker Personality Dictates Success in Jailbreaking LLMs</strong> received the <strong>Best Paper Prize</strong> at the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
@@ -63,16 +64,16 @@ My current interests mainly lie in **trustworthy and efficient agents**, **multi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-under-review">🛡 Under Review</div><img src="{{ '/images/dsc.png' | relative_url }}" alt="Decoupled Safety Control" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-accepted">🔥 NeurIPS 2026 · CCF-A</div><img src="{{ '/images/dsc.png' | relative_url }}" alt="Decoupled Safety Control" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance**
 
 **Huilin Zhou**, Ruoxi Cheng, Yuhang Wang, Yuming Liu, Minghao Sun, Ruolong Ma, Lan Zhang
 
-<span class="lang-zh">审稿中。</span><span class="lang-en">Under review.</span>
+<span class="lang-zh">Advances in Neural Information Processing Systems（NeurIPS 2026），已接收。</span><span class="lang-en">Advances in Neural Information Processing Systems (NeurIPS 2026), Accepted.</span>
 
-<div class="paper-flags"><span class="paper-status"><span class="lang-zh">审稿中</span><span class="lang-en">Under Review</span></span><span><span class="lang-zh">扩散模型安全</span><span class="lang-en">Diffusion Safety</span></span><span><span class="lang-zh">引导控制</span><span class="lang-en">Guidance Control</span></span></div>
+<div class="paper-flags"><span class="paper-rank">🔥 CCF-A</span><span class="paper-status"><span class="lang-zh">已接收</span><span class="lang-en">Accepted</span></span><span><span class="lang-zh">扩散模型安全</span><span class="lang-en">Diffusion Safety</span></span><span><span class="lang-zh">引导控制</span><span class="lang-en">Guidance Control</span></span></div>
 </div>
 </div>
 
