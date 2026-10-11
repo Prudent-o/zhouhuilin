@@ -27,6 +27,7 @@ My current interests mainly lie in **trustworthy and efficient agents**, **multi
 # 🎉 <span class="lang-zh">动态</span><span class="lang-en">News</span>
 
 <ul class="news-list">
+  <li><span class="lang-zh"><strong>2026 年 10 月 9 日.</strong> 🏅 获评 <strong>NeurIPS 2026 Top Reviewer</strong>。</span><span class="lang-en"><strong>October 9, 2026.</strong> 🏅 Recognized as a <strong>NeurIPS 2026 Top Reviewer</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 9 月 25 日.</strong> 🔥 <strong>Decoupled Safety Control（DSC）</strong> 被 <strong>NeurIPS 2026（CCF-A）</strong> 接收。</span><span class="lang-en"><strong>September 25, 2026.</strong> 🔥 <strong>Decoupled Safety Control (DSC)</strong> was accepted to <strong>NeurIPS 2026 (CCF-A)</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月.</strong> 🔥 <strong>Never compromise with vulnerabilities: a comprehensive survey on AI governance</strong> 被 <strong>Science China Information Sciences（SCIS，CCF-A）</strong> 接收。</span><span class="lang-en"><strong>July 2026.</strong> 🔥 <strong>Never compromise with vulnerabilities: a comprehensive survey on AI governance</strong> was accepted by <strong>Science China Information Sciences (SCIS, CCF-A)</strong>.</span></li>
   <li><span class="lang-zh"><strong>2026 年 7 月 14 日.</strong> 🏆 <strong>PoliteInjection</strong> 在 <strong>IJCAI 2026 Workshop on AIGC Safety</strong> 的 OpenClaw Security Attack and Defense Challenge 中获得 <strong>Gold Award</strong>。</span><span class="lang-en"><strong>July 14, 2026.</strong> 🏆 <strong>PoliteInjection</strong> received the <strong>Gold Award</strong> at the OpenClaw Security Attack and Defense Challenge of the <strong>IJCAI 2026 Workshop on AIGC Safety</strong>.</span></li>
@@ -208,6 +209,10 @@ Yuhang Wang, Jian Zhao, Tianle Zhang, **Huilin Zhou**, Rui Feng
   <li>
     <span class="lang-zh"><strong>学术服务.</strong> ICML 2026 审稿人，<span class="inline-badge gold-badge">🏅 金牌审稿人 · Top 25%</span>。</span>
     <span class="lang-en"><strong>Service.</strong> Reviewer for ICML 2026, <span class="inline-badge gold-badge">🏅 Gold Reviewer · Top 25%</span>.</span>
+  </li>
+  <li>
+    <span class="lang-zh"><strong>学术服务.</strong> NeurIPS 2026 主审稿人，获评 <span class="inline-badge gold-badge">🏅 Top Reviewer</span>。</span>
+    <span class="lang-en"><strong>Service.</strong> Main Reviewer for NeurIPS 2026; recognized as a <span class="inline-badge gold-badge">🏅 Top Reviewer</span>.</span>
   </li>
   <li>
     <span class="lang-zh"><strong>学术活动.</strong> 担任 UbiComp 2026 TCSAUC Workshop Chair，<span class="inline-badge red-badge">CCF-A</span>。</span>
